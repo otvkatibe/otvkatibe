@@ -1,6 +1,6 @@
-## Olá, eu sou Otávio Katibe👋
+# Olá, eu sou Otávio Katibe👋
 
-Sou Otávio Katibe, graduando em Engenharia da Computação na Universidade SENAI CIMATEC. Tenho interesse em inteligência artificial, sistemas embarcados, Iot e tecnologias quânticas.
+Sou Otávio Katibe, graduando em Engenharia da Computação na Universidade Senai Cimatec. Tenho interesse em inteligência artificial, sistemas embarcados, iot e tecnologias quânticas, .
 
 ## Linguagens que já trabalhei/estou trabalhando:
 - 💻 C, C++, Java, Python, JavaScript
