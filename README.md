@@ -1,5 +1,3 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&vCenter=true&width=435&lines=Hi%2C+my+name+is+Ot%C3%A1vio+Katibe)](https://git.io/typing-svg)
 
 <div align="center">  
