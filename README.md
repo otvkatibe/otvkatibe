@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otvkatibe&show_icons=true&count_private=true&hide_border=true&theme=react" alt="Otávio's Github Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvkatibe&layout=compact&hide_border=true&count_private=true&theme=react" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&hide_border=true&count_private=true&theme=react" />
 </div>
 
 
