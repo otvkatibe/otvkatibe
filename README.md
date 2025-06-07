@@ -7,12 +7,10 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvkatibe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens Mais Usadas" />
   <br>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=otvkatibe&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=otvkatibe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas do GitHub" />
-  <br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=otvkatibe&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otvkatibe&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens Mais Usadas" />
 </div>
 
 # 💻 Tech Stack:
