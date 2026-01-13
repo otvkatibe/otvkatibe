@@ -7,11 +7,13 @@ Salvador, Bahia
 
 ---
 
-### Visão Profissional
+### 👨‍💻 Sobre Mim
 
-Minha atuação como engenheiro foca na construção de sistemas resilientes e escaláveis. Como Bolsista de Iniciação Tecnológica (ITI-SAS), trago eficiência para processos corporativos, mas minha especialidade técnica reside no desenvolvimento de arquiteturas modernas de backend e dados.
+Sou estudante de **Engenharia de Computação no SENAI CIMATEC**, focado em preencher a lacuna entre a teoria acadêmica e o desenvolvimento de software real. 
 
-Sou um defensor do **Clean Code** e da **Arquitetura Limpa**. Minha stack principal gira em torno do ecossistema **Node.js** e **Python**, onde não apenas entrego funcionalidades, mas garanto a qualidade através de testes automatizados, tipagem estrita e pipelines de CI/CD. Tenho experiência comprovada em transformar requisitos complexos em microsserviços containerizados prontos para produção.
+Minha jornada técnica vai além de frameworks; interesso-me profundamente pelos fundamentos da Ciência da Computação, desde **Teoria dos Compiladores** e **Estruturas de Dados**. Atualmente, atuo como bolsista de Iniciação Tecnológica (ITI-SAS), onde aplico esses conceitos na otimização de processos.
+
+No meu GitHub, você verá minha evolução: de algoritmos em **C/C++** e POO pura em **Java**, até arquiteturas modernas de backend com **Node.js** e **Python**, sempre buscando aplicar **Clean Architecture** e boas práticas de engenharia.
 
 ---
 
