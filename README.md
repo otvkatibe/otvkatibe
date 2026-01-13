@@ -46,11 +46,23 @@ Prova de conceito de excelência técnica em **Python**.
 
 ---
 
+### Fundamentos & Base Acadêmica
+
+Projetos desenvolvidos com foco no rigor da Ciência da Computação e complexidade algorítmica.
+
+**Algoritmos e Estruturas de Dados (C/C++)**
+Implementação de estruturas de dados de baixo nível e algoritmos de busca/ordenação. O foco destes projetos foi o gerenciamento manual de memória (alocação dinâmica), uso intensivo de ponteiros e manipulação de structs, consolidando o entendimento de como o software interage com o hardware.
+
+**Programação Orientada a Objetos Pura (Java)**
+Desenvolvimento de engines de jogos (Xadrez e Arcade) sem uso de frameworks facilitadores. O objetivo foi aplicar puramente os pilares da Orientação a Objetos (Encapsulamento, Herança, Polimorfismo) e Design Patterns clássicos para resolver problemas de lógica complexa e estado.
+
+---
+
 ### Domínio Técnico Completo
 
 **Linguagens & Scripting**
 <br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 **Backend, Runtime & API**
 <br>
