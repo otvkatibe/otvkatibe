@@ -1,6 +1,6 @@
 # Otavio Katibe
 
-**Engenheiro de Computação em formação | SENAI CIMATEC**
+**Engenheiro de Computação | SENAI CIMATEC**
 Salvador, Bahia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otavio-katibe) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviokatibe@gmail.com)
@@ -11,36 +11,38 @@ Salvador, Bahia
 
 Minha atuação como engenheiro foca na construção de sistemas resilientes e escaláveis. Como Bolsista de Iniciação Tecnológica (ITI-SAS), trago eficiência para processos corporativos, mas minha especialidade técnica reside no desenvolvimento de arquiteturas modernas de backend e dados.
 
-Sou um defensor do **Clean Code** e da **Arquitetura Limpa**. Minha stack principal gira em torno do ecossistema **Node.js** e **Python**, onde não apenas entrego funcionalidades, mas garanto a qualidade através de testes automatizados, tipagem estrita e pipelines de CI/CD. Tenho experiência comprovada em transformar requisitos complexos em microsserviços containerizados, prontos para ambientes de alta demanda.
+Sou um defensor do **Clean Code** e da **Arquitetura Limpa**. Minha stack principal gira em torno do ecossistema **Node.js** e **Python**, onde não apenas entrego funcionalidades, mas garanto a qualidade através de testes automatizados, tipagem estrita e pipelines de CI/CD. Tenho experiência comprovada em transformar requisitos complexos em microsserviços containerizados prontos para produção.
 
 ---
 
 ### Projetos de Alto Impacto
 
-**Ecossistema de API Corporativa**
-[Backend (Node/TS)](https://github.com/otvkatibe/backend-app)
+**Finances API Service**
+[Documentação & Código](https://github.com/otvkatibe/finances-backend-api)
 
-API corporativa projetada para alta performance, implementando padrões de mercado.
-* **Engenharia:** Cache distribuído com **Redis**, agendamento de tarefas com **Cron Jobs** e logs estruturados com **Winston**.
-* **Segurança & Qualidade:** Validação estrita com **Zod**, Rate Limiting para proteção contra DDoS e pipeline de CI/CD via **GitHub Actions**.
+Sistema financeiro desenvolvido com arquitetura de referência para alta performance.
+* **Engenharia:** Implementação robusta de Cache com **Redis**, agendamento de tarefas (Cron Jobs) e logs estruturados via **Winston**.
+* **Segurança:** Validação estrita com **Zod**, Rate Limiting distribuído e autenticação JWT.
+* **Qualidade:** Suíte de testes E2E e unitários com **Jest/Supertest** e pipeline de CI/CD.
 
-**Plataforma Riot Games**
-[Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (NoSQL)](https://github.com/otvkatibe/riot-backend)
+**Workout Tracker Ecosystem**
+[Web Client](https://github.com/otvkatibe/workout-tracker-client) | [API Service SQL](https://github.com/otvkatibe/workout-tracker-api-sql)
 
-Ecossistema full-stack que consome e processa dados da Riot Games.
-* **Frontend:** SPA reativa construída com **React**, **Vite** e **TailwindCSS**, focada em UX.
-* **Backend:** Serviço especializado em leitura massiva utilizando **MongoDB** e **Mongoose**. A confiabilidade é assegurada por testes E2E e unitários com **Jest** e **Supertest**.
+Plataforma completa para gestão de treinos, demonstrando domínio full-stack.
+* **Frontend:** Interface reativa moderna construída com **React**, **Vite** e **TailwindCSS**.
+* **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, focado em integridade relacional.
 
-**Automação de Treinos & Auth**
-[Shell Automation & Docker](https://github.com/otvkatibe/crud-autenticado-postgresql)
+**Riot Games Ecosystem**
+[Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (Node)](https://github.com/otvkatibe/riot-backend)
 
-Sistema focado em automação e containerização.
-* **Destaque:** Além da API em Node.js, desenvolvi scripts de automação em **Bash (Shell Script)** para testes de carga e validação de endpoints diretamente via terminal. Ambiente totalmente containerizado com **Docker Compose**.
+Ecossistema que consome e processa dados da API da Riot Games.
+* **Frontend:** SPA focada em UX para visualização de dados de jogadores.
+* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente de APIs da Riot.
 
-**Arquitetura PetroBahia**
-[Clean Architecture](https://github.com/otvkatibe/alta_qualidade_software)
+**PetroBahia: Architecture Reference**
+[Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
 
-Prova de conceito de excelência técnica em **Python**.
+Prova de conceito de excelência técnica em **Python** aplicada ao setor de energia.
 * **Foco:** Clean Architecture pura, isolando o domínio da infraestrutura.
 * **Qualidade:** Uso rigoroso de Type Hints, **Pytest** para cobertura de testes e princípios SOLID.
 
@@ -48,13 +50,11 @@ Prova de conceito de excelência técnica em **Python**.
 
 ### Fundamentos & Base Acadêmica
 
-Projetos desenvolvidos com foco no rigor da Ciência da Computação e complexidade algorítmica.
-
 **Algoritmos e Estruturas de Dados (C/C++)**
-Implementação de estruturas de dados de baixo nível e algoritmos de busca/ordenação. O foco destes projetos foi o gerenciamento manual de memória (alocação dinâmica), uso intensivo de ponteiros e manipulação de structs, consolidando o entendimento de como o software interage com o hardware.
+Implementação de estruturas de dados de baixo nível. Gerenciamento manual de memória e manipulação de ponteiros para consolidação da interação software-hardware.
 
-**Programação Orientada a Objetos Pura (Java)**
-Desenvolvimento de engines de jogos (Xadrez e Arcade) sem uso de frameworks facilitadores. O objetivo foi aplicar puramente os pilares da Orientação a Objetos (Encapsulamento, Herança, Polimorfismo) e Design Patterns clássicos para resolver problemas de lógica complexa e estado.
+**Programação Orientada a Objetos (Java)**
+Desenvolvimento de engines de jogos sem frameworks, aplicando puramente Encapsulamento, Herança e Polimorfismo.
 
 ---
 
