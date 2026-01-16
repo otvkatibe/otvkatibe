@@ -17,34 +17,26 @@ No meu GitHub, você verá minha evolução: de algoritmos em **C/C++** e POO pu
 
 ---
 
-### Projetos de Alto Impacto
-
-**Finances API Service**
-[Documentação & Código](https://github.com/otvkatibe/finances-backend-api)
-
-Sistema financeiro desenvolvido com arquitetura de referência para alta performance.
-* **Engenharia:** Implementação robusta de Cache com **Redis**, agendamento de tarefas (Cron Jobs) e logs estruturados via **Winston**.
-* **Segurança:** Validação estrita com **Zod**, Rate Limiting distribuído e autenticação JWT.
-* **Qualidade:** Suíte de testes E2E e unitários com **Jest/Supertest** e pipeline de CI/CD.
+### Projetos pessoais
 
 **Workout Tracker Ecosystem**
 [Web Client](https://github.com/otvkatibe/workout-tracker-client) | [API Service SQL](https://github.com/otvkatibe/workout-tracker-api-sql)
 
 Plataforma completa para gestão de treinos, demonstrando domínio full-stack.
-* **Frontend:** Interface reativa moderna construída com **React**, **Vite** e **TailwindCSS**.
+* **Frontend:** Interface reativa moderna construída com **React**, **Vite**.
 * **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, focado em integridade relacional.
 
 **Riot Games Ecosystem**
 [Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (Node)](https://github.com/otvkatibe/riot-backend)
 
 Ecossistema que consome e processa dados da API da Riot Games.
-* **Frontend:** SPA focada em UX para visualização de dados de jogadores.
+* **Frontend:** SPA focada em UX para visualização de dados de jogadores construída com **React**, **Vite** e **TailwindCSS**.
 * **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente de APIs da Riot.
 
 **PetroBahia: Architecture Reference**
 [Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
 
-Prova de conceito de excelência técnica em **Python** aplicada ao setor de energia.
+Prova de conceito de excelência técnica em **Python** aplicada a repositório legado, como projeto da DDC Alta qualidade de software.
 * **Foco:** Clean Architecture pura, isolando o domínio da infraestrutura.
 * **Qualidade:** Uso rigoroso de Type Hints, **Pytest** para cobertura de testes e princípios SOLID.
 
