@@ -37,7 +37,7 @@ Projeto voltado para consumir e exibir dados da API da Riot Games, além de CRUD
 * **Frontend:** SPA focada em UX para visualização de dados de jogadores construída com **React**, **Vite** e **TailwindCSS**.
 * **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente da API da Riot.
 
-**PetroBahia: Architecture Reference**
+**Architecture Reference**
 [Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
 
 Um exercício de refatoração em Python, aplicando princípios de código limpo e arquitetura escalável, como projeto da DDC Alta qualidade de software.
