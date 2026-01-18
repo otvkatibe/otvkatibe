@@ -1,42 +1,47 @@
 # Otavio Katibe
 
-**Engenheiro de Computação | SENAI CIMATEC**
+**Estudante de Engenharia de Computação | 7º Semestre SENAI CIMATEC, Salvador-BA**
 Salvador, Bahia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otavio-katibe) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviokatibe@gmail.com)
 
 ---
 
-### 👨‍💻 Sobre Mim
+### Sobre Mim
 
-Sou estudante de **Engenharia de Computação no SENAI CIMATEC**, focado em preencher a lacuna entre a teoria acadêmica e o desenvolvimento de software real. 
+Sou graduando em Engenharia de Computação no SENAI CIMATEC. Atualmente, sou Bolsista de Iniciação Tecnológica (ITI-SAS), onde aplico lógica de programação e organização de dados para otimizar processos internos.
 
-Minha jornada técnica vai além de frameworks; interesso-me profundamente pelos fundamentos da Ciência da Computação, desde **Teoria dos Compiladores** e **Estruturas de Dados**. Atualmente, atuo como bolsista de Iniciação Tecnológica (ITI-SAS), onde aplico esses conceitos na otimização de processos.
+Meu objetivo no GitHub é documentar minha evolução acadêmica e meus estudos práticos em desenvolvimento de software. Tenho interesse genuíno nos fundamentos da computação e busco minha primeira oportunidade de estágio para aprender como esses conceitos são aplicados em escala profissional.
 
 No meu GitHub, você verá minha evolução: de algoritmos em **C/C++** e POO pura em **Java**, até arquiteturas modernas de backend com **Node.js** e **Python**, sempre buscando aplicar **Clean Architecture** e boas práticas de engenharia.
 
 ---
 
-### Projetos pessoais
+### Projetos de Estudo
+
+Estes são os principais repositórios onde aplico o que aprendo na faculdade e em cursos complementares:
 
 **Workout Tracker Ecosystem**
 [Web Client](https://github.com/otvkatibe/workout-tracker-client) | [API Service SQL](https://github.com/otvkatibe/workout-tracker-api-sql)
 
-Plataforma completa para gestão de treinos, demonstrando domínio full-stack.
+Um sistema completo para gestão de treinos, criado para exercitar operações de CRUD e relações em banco de dados.
+
 * **Frontend:** Interface reativa moderna construída com **React**, **Vite**.
 * **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, focado em integridade relacional.
 
 **Riot Games Ecosystem**
 [Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (Node)](https://github.com/otvkatibe/riot-backend)
 
-Ecossistema que consome e processa dados da API da Riot Games.
+Projeto voltado para consumir e exibir dados da API da Riot Games, além de CRUD específico de favoritar seus usuários, explorando requisições assíncronas e boas práticas de integração com serviços externos.
+
 * **Frontend:** SPA focada em UX para visualização de dados de jogadores construída com **React**, **Vite** e **TailwindCSS**.
-* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente de APIs da Riot.
+* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente da API da Riot.
 
 **PetroBahia: Architecture Reference**
 [Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
 
-Prova de conceito de excelência técnica em **Python** aplicada a repositório legado, como projeto da DDC Alta qualidade de software.
+Um exercício de refatoração em Python, aplicando princípios de código limpo e arquitetura escalável, como projeto da DDC Alta qualidade de software.
+
 * **Foco:** Clean Architecture pura, isolando o domínio da infraestrutura.
 * **Qualidade:** Uso rigoroso de Type Hints, **Pytest** para cobertura de testes e princípios SOLID.
 
@@ -45,10 +50,10 @@ Prova de conceito de excelência técnica em **Python** aplicada a repositório 
 ### Fundamentos & Base Acadêmica
 
 **Algoritmos e Estruturas de Dados (C/C++)**
-Implementação de estruturas de dados de baixo nível. Gerenciamento manual de memória e manipulação de ponteiros para consolidação da interação software-hardware.
+Implementação de estruturas de dados de baixo nível. Gerenciamento manual de memória e manipulação de ponteiros para consolidação da interação software-hardware e desenvolvimento de um jogo RPG.
 
 **Programação Orientada a Objetos (Java)**
-Desenvolvimento de engines de jogos sem frameworks, aplicando puramente Encapsulamento, Herança e Polimorfismo.
+Desenvolvimento de engines de jogos como Xadrez, Flapbird, sem engines, aplicando puramente Encapsulamento, Herança e Polimorfismo.
 
 ---
 
