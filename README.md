@@ -13,7 +13,7 @@ Sou graduando em Engenharia de Computação no SENAI CIMATEC. Atualmente, sou Bo
 
 Meu objetivo no GitHub é documentar minha evolução acadêmica e meus estudos práticos em desenvolvimento de software. Tenho interesse genuíno nos fundamentos da computação e busco minha primeira oportunidade de estágio para aprender como esses conceitos são aplicados em escala profissional.
 
-No meu GitHub, você verá minha evolução: de algoritmos em **C/C++** e POO pura em **Java**, até arquiteturas modernas de backend com **Node.js** e **Python**, sempre buscando aplicar **Clean Architecture** e boas práticas de engenharia.
+Você verá minha evolução: de algoritmos em **C/C++** e POO pura em **Java**, até arquiteturas modernas de backend com **Node.js** e **Python**, sempre buscando aplicar **Clean Architecture** e boas práticas de engenharia.
 
 ---
 
