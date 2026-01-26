@@ -26,8 +26,8 @@ Estes são os principais repositórios onde aplico o que aprendo na faculdade e 
 
 Um sistema completo para gestão de treinos, criado para exercitar operações de CRUD e relações em banco de dados.
 
-* **Frontend:** Interface reativa moderna construída com **React**, **Vite**.
-* **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, focado em integridade relacional.
+* **Frontend:** Interface reativa moderna construída com **React**, **Vite**, **Typescript**.
+* **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, completamente hospedado no Vercel.
 
 **Riot Games Ecosystem**
 [Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (Node)](https://github.com/otvkatibe/riot-backend)
@@ -35,7 +35,7 @@ Um sistema completo para gestão de treinos, criado para exercitar operações d
 Projeto voltado para consumir e exibir dados da API da Riot Games, além de CRUD específico de favoritar seus usuários, explorando requisições assíncronas e boas práticas de integração com serviços externos.
 
 * **Frontend:** SPA focada em UX para visualização de dados de jogadores construída com **React**, **Vite** e **TailwindCSS**.
-* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente da API da Riot.
+* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente da API da Riot, completamente hospedado no Vercel.
 
 **Architecture Reference**
 [Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
