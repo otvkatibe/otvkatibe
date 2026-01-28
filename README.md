@@ -9,7 +9,7 @@ Salvador, Bahia
 
 ### Sobre Mim
 
-Sou graduando em Engenharia de Computação no SENAI CIMATEC. Atualmente, sou Bolsista de Iniciação Tecnológica (ITI-SAS), onde aplico lógica de programação e organização de dados para otimizar processos internos.
+Sou graduando em Engenharia de Computação no SENAI CIMATEC. Atualmente, sou Bolsista de Iniciação Tecnológica (ISI-SAS), onde aplico lógica de programação e organização de dados para otimizar processos internos.
 
 Meu objetivo no GitHub é documentar minha evolução acadêmica e meus estudos práticos em desenvolvimento de software. Tenho interesse genuíno nos fundamentos da computação e busco minha primeira oportunidade de estágio para aprender como esses conceitos são aplicados em escala profissional.
 
