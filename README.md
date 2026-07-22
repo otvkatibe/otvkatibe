@@ -1,88 +1,134 @@
-# Otavio Katibe
+# Olá, eu sou Otávio Katibe 👋
 
-**Estudante de Engenharia de Computação | 7º Semestre SENAI CIMATEC, Salvador-BA**
-Salvador, Bahia
+**Graduando em Engenharia de Computação | Back-end, Dados e Inteligência Artificial**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otavio-katibe) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviokatibe@gmail.com)
+Salvador, Bahia, Brasil
 
----
-
-### Sobre Mim
-
-Sou graduando em Engenharia de Computação no SENAI CIMATEC. Atualmente, sou Bolsista de Iniciação Tecnológica (ISI-SAS), onde aplico lógica de programação e organização de dados para otimizar processos internos.
-
-Meu objetivo no GitHub é documentar minha evolução acadêmica e meus estudos práticos em desenvolvimento de software. Tenho interesse genuíno nos fundamentos da computação e busco minha primeira oportunidade de estágio para aprender como esses conceitos são aplicados em escala profissional.
-
-Você verá minha evolução: de algoritmos em **C/C++** e POO pura em **Java**, até arquiteturas modernas de backend com **Node.js** e **Python**, sempre buscando aplicar **Clean Architecture** e boas práticas de engenharia.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/otavio-katibe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:otaviokatibe@gmail.com)
 
 ---
 
-### Projetos de Estudo
+## Sobre mim
 
-Estes são os principais repositórios onde aplico o que aprendo na faculdade e em cursos complementares:
+Sou graduando em **Engenharia de Computação pelo SENAI CIMATEC** e atualmente estagio na **Gerência de Estratégia e Produtividade do SESI**.
 
-**Workout Tracker Ecosystem**
-[Web Client](https://github.com/otvkatibe/workout-tracker-client) | [API Service SQL](https://github.com/otvkatibe/workout-tracker-api-sql)
+No estágio, apoio o desenvolvimento e a melhoria de soluções voltadas aos processos internos, trabalhando com organização de dados, dashboards, aplicações em plataformas BPMS, automações com RPA e suporte aos usuários dos sistemas.
 
-Um sistema completo para gestão de treinos, criado para exercitar operações de CRUD e relações em banco de dados.
+Tenho interesse principalmente em **Engenharia de Software**, **Engenharia de Dados** e **Inteligência Artificial**. Utilizo este GitHub para registrar minha evolução acadêmica e desenvolver projetos práticos relacionados a back-end, bancos de dados, APIs, testes e arquitetura de software.
 
-* **Frontend:** Interface reativa moderna construída com **React**, **Vite**, **Typescript**.
-* **Backend:** API RESTful escalável (Node.js) utilizando **PostgreSQL** e **Sequelize**. Ambiente containerizado com **Docker Compose**, completamente hospedado no Vercel.
-
-**Riot Games Ecosystem**
-[Interface (React)](https://github.com/otvkatibe/riot-frontend-tcss) | [Microsserviço (Node)](https://github.com/otvkatibe/riot-backend)
-
-Projeto voltado para consumir e exibir dados da API da Riot Games, além de CRUD específico de favoritar seus usuários, explorando requisições assíncronas e boas práticas de integração com serviços externos.
-
-* **Frontend:** SPA focada em UX para visualização de dados de jogadores construída com **React**, **Vite** e **TailwindCSS**.
-* **Backend:** Serviço especializado na otimização de leitura e persistência em banco NoSQL (**MongoDB**) e integração resiliente da API da Riot, completamente hospedado no Vercel.
-
-**Architecture Reference**
-[Clean Architecture Core](https://github.com/otvkatibe/python-clean-arch-reference)
-
-Um exercício de refatoração em Python, aplicando princípios de código limpo e arquitetura escalável, como projeto da DDC Alta qualidade de software.
-
-* **Foco:** Clean Architecture pura, isolando o domínio da infraestrutura.
-* **Qualidade:** Uso rigoroso de Type Hints, **Pytest** para cobertura de testes e princípios SOLID.
+Minha formação passa pelos fundamentos da computação com **C, C++ e Java** e avança para o desenvolvimento de aplicações com **Python, TypeScript, Node.js, FastAPI e React**.
 
 ---
 
-### Fundamentos & Base Acadêmica
+## Projetos em destaque
 
-**Algoritmos e Estruturas de Dados (C/C++)**
-Implementação de estruturas de dados de baixo nível. Gerenciamento manual de memória e manipulação de ponteiros para consolidação da interação software-hardware e desenvolvimento de um jogo RPG.
+### Workout Tracker Ecosystem
 
-**Programação Orientada a Objetos (Java)**
-Desenvolvimento de engines de jogos como Xadrez, Flapbird, sem engines, aplicando puramente Encapsulamento, Herança e Polimorfismo.
+[Web Client](https://github.com/otvkatibe/workout-tracker-client) ·
+[API Service SQL](https://github.com/otvkatibe/workout-tracker-api-sql)
+
+Aplicação para gerenciamento de treinos, desenvolvida para praticar construção de APIs, operações CRUD e relacionamentos em bancos de dados relacionais.
+
+- **Frontend:** React, Vite e TypeScript
+- **Backend:** Node.js e API REST
+- **Banco de dados:** PostgreSQL com Sequelize
+- **Infraestrutura:** Docker Compose e Vercel
 
 ---
 
-### Domínio Técnico Completo
+### Riot Games Ecosystem
 
-**Linguagens & Scripting**
-<br>
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+[Interface React](https://github.com/otvkatibe/riot-frontend-tcss) ·
+[API Node.js](https://github.com/otvkatibe/riot-backend)
 
-**Backend, Runtime & API**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
+Aplicação para consulta de dados de jogadores por meio da API da Riot Games, incluindo persistência de usuários favoritos.
 
-**Banco de Dados & Cache**
-<br>
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+- **Frontend:** React, Vite e Tailwind CSS
+- **Backend:** Node.js e integração com API externa
+- **Banco de dados:** MongoDB
+- **Deploy:** Vercel
 
-**ORMs & Query Builders**
-<br>
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00.svg?style=flat&logo=sqlalchemy&logoColor=white)
+---
 
-**Qualidade, Testes & Logs**
-<br>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=flat&logo=pytest&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=flat&logo=zod&logoColor=white) ![Winston](https://img.shields.io/badge/Winston-Logs-blue?style=flat)
+### Clean Architecture Reference
 
-**DevOps, Cloud & Infra**
-<br>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+[Repositório](https://github.com/otvkatibe/python-clean-arch-reference)
 
-**Frontend Moderno**
-<br>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
+Projeto de referência desenvolvido em Python para estudar separação de responsabilidades, arquitetura de software e qualidade de código.
+
+- Aplicação de princípios de **Clean Architecture** e **SOLID**
+- Separação entre domínio, casos de uso e infraestrutura
+- Uso de **type hints**
+- Testes automatizados com **Pytest**
+
+---
+
+## Fundamentos acadêmicos
+
+### Algoritmos e Estruturas de Dados
+
+Estudo e implementação de algoritmos e estruturas de dados com **C e C++**, incluindo ponteiros, gerenciamento de memória e desenvolvimento de um jogo RPG.
+
+### Programação Orientada a Objetos
+
+Desenvolvimento de projetos em **Java**, incluindo jogos como xadrez e Flappy Bird, para aplicar encapsulamento, herança, abstração e polimorfismo.
+
+---
+
+## Tecnologias
+
+### Linguagens
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+### Back-end e APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+
+### Bancos de dados e persistência
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+### Testes e qualidade
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
+
+### DevOps e ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+
+---
+
+## Áreas de interesse
+
+- Engenharia de Software
+- Desenvolvimento Back-end
+- Engenharia de Dados
+- Inteligência Artificial
+- Arquitetura e qualidade de software
+- Automação de processos
+
+---
+
+> Aprendendo continuamente por meio de projetos, experiências profissionais e fundamentos de engenharia.
