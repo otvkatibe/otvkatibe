@@ -11,7 +11,7 @@ Salvador, Bahia, Brasil
 
 ## Sobre mim
 
-Sou graduando em **Engenharia de Computação pelo SENAI CIMATEC** e atualmente estagio na **Gerência de Estratégia e Produtividade do SESI**.
+Sou graduando em **Engenharia de Computação pelo SENAI CIMATEC** e atualmente estagio na **Gerência de Estratégia e Produtividade da FIEB**.
 
 No estágio, apoio o desenvolvimento e a melhoria de soluções voltadas aos processos internos, trabalhando com organização de dados, dashboards, aplicações em plataformas BPMS, automações com RPA e suporte aos usuários dos sistemas.
 
